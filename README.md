@@ -2,7 +2,7 @@
 
 ## About
 
-Aurora RAT or Remote Administration Tool is written in Go, using wxGo as a GUI toolkit.
+Aurora RAT or Remote Administration Tool is written in Go.
 
 This project was started to learn networking in go and get myself started in the security field.
 
@@ -17,3 +17,7 @@ Compile persist.go separately and then place it in the data folder.
 ## Aurora Control Panel
 
 The control panel is found [here](https://github.com/alanbaumgartner/Aurora).
+
+## Required Libraries
+
+[go-ps](https://www.github.com/mitchellh/go-ps)
